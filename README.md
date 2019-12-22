@@ -1,5 +1,5 @@
 # yandex-algorithm-2018-ml-track_my
-The 6th place sultion for Yandex Algorithm 2018 ML-track
+The 6th place solution for Yandex Algorithm 2018 ML-track
 
 Result (private LB): **86161**
 
