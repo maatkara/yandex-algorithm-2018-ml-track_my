@@ -9,5 +9,5 @@ Result (private LB): **86161**
   
   Dataset: public database of dialogues from the Yandex crowdsourcing platform.Toloka.
   
-  NDCG metric. public database of dialogues and a crowdsourcing platform Yandex.Toloka
+  Metric: NDCG.
 - [Private LB](https://contest.yandex.ru/algorithm2018/contest/7914/standings/)
