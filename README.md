@@ -7,7 +7,7 @@ Result (private LB): **86161**
 
   Dialogue Systems: selection and ranking of replicas that are appropriate in meaning for this moment of the conversation and are able to interest the user in continuing the conversation in a large collection of existing replicas.  
   
-  Dataset: public database of dialogues and a crowdsourcing platform Yandex.Toloka.
+  Dataset: public database of dialogues from the Yandex crowdsourcing platform.Toloka.
   
-  NDCG metric. 
+  NDCG metric. public database of dialogues and a crowdsourcing platform Yandex.Toloka
 - [Private LB](https://contest.yandex.ru/algorithm2018/contest/7914/standings/)
